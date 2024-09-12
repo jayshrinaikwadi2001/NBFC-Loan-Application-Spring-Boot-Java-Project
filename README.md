@@ -1,0 +1,3 @@
+It is a web-based open discussion portal providing information and solutions for loans with minimal application requirements and short tenures. Discover practical advice, connect with experts, and simplify your loan process with us.
+Additionally, NBFCs help applicants make decisions by providing insights on current market conditions and the best prices for tenure and interest rates. Feedback can be forwarded to an admin officer, and the information pages of the system are dynamic, allowing NBFC officers to update them as needed.
+The portal provides loan analysis for various types of loans and suggestions based on interest rates. It helps applicants choose a suitable loan type according to their income status.
